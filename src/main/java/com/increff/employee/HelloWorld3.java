@@ -1,7 +1,7 @@
 package com.increff.employee;
 
-public class HelloWorld {
+public class HelloWorld3 {
 	public static void main(String[] args) {
-		HelloWorld2.main(args);
+		System.out.println("Hello World!");
 	}
 }
